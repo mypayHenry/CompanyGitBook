@@ -33,3 +33,8 @@ description: 很多密碼
 
 * 帳號：henry\_kao@mypay.tw
 * 密碼：5k4g4mypay2k7au4a83 (翻譯：這是mypay的密碼)
+
+### 39buy.Query
+
+* ssh網址：developer@query.usecase.cc
+* 密碼：developer
