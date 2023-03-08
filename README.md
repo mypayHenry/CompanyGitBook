@@ -88,3 +88,15 @@ description: 公司上線產品網址
 192.168.0.40 psvr.usecase.cc
 192.168.0.170 urich.usecase.cc
 ```
+
+### Web IP
+
+192.168.0.196
+
+### AP IP
+
+192.168.0.197
+
+### Query IP
+
+192.168.0.198

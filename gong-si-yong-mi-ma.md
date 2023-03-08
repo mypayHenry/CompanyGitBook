@@ -47,7 +47,14 @@ description: 很多密碼
 * 帳號：henry\_kao@mypay.tw
 * 密碼：5k4g4mypay2k7au4a83 (翻譯：這是mypay的密碼)
 
-### 39buy.Query
+### 39buy/發票.Query
 
 * ssh網址：developer@query.usecase.cc
 * 密碼：developer
+
+### 其餘功能.api主機
+
+* ssh網址：developer@\[網域名稱]\(例如：api.usecase.cc)
+* 密碼：developer
+
+最新版本路徑：/home/service/k20-mypay/webroot
