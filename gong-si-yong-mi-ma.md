@@ -20,7 +20,7 @@ description: 很多密碼
 ### corp登入帳號
 
 * 帳號：h40514
-* 密碼：asdf456
+* 密碼：asdfgh456
 
 ### biz/39buy登入帳號
 
