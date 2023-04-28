@@ -4,21 +4,35 @@ description: 公司上線產品網址
 
 # 公司用網址
 
-### 大特店(local)
+### 大特店
 
-[http://corp.k20-mypay.tw/](http://corp.k20-mypay.tw/)
+{% embed url="https://corp.usecase.cc" %}
+測試區
+{% endembed %}
 
-### 特約商、經銷商(local)
+{% embed url="https://corp.spay.com.tw" %}
+正式區
+{% endembed %}
 
-[http://biz.k20-mypay.tw/](http://biz.k20-mypay.tw/)
+### 特約商、經銷商
+
+{% embed url="https://biz.usecase.cc" %}
+測試區
+{% endembed %}
+
+{% embed url="https://biz.spay.com.tw" %}
+正式區
+{% endembed %}
 
 ### 39buy後台(local)
 
-[http://qrcode.k20-mypay.tw/](http://qrcode.k20-mypay.tw/)
+{% embed url="https://https/qrcode.usecase.cc" %}
+測試區
+{% endembed %}
 
-### 39buy前台(local)[&#xD;](http://corp.k20-mypay.tw/)
-
-[http://39buy.k20-mypay.tw/](http://39buy.k20-mypay.tw/)
+{% embed url="https://qrcode.39buy.com.tw" %}
+正式區
+{% endembed %}
 
 ### domain name
 
