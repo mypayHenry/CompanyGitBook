@@ -127,4 +127,4 @@ public function handle()
 
 此外看到execType分別有兩種模式，一種是 WEB端、另一種是CON
 
-* WEB：url&#x20;
+WEB跟CON其實都是去呼叫 JobHelper 中的 runJobById 這支 function，其目的是為了排程分流
