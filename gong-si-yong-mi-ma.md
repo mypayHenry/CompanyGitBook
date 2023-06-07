@@ -72,3 +72,9 @@ description: 很多密碼
 
 * 帳號：sunlin\_lin@mypay.tw
 * 密碼：Aa123456
+
+### AWS 帳號密碼
+
+* kaogi
+* rd\_henry
+*
