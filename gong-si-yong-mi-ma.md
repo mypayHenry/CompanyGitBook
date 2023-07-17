@@ -83,3 +83,8 @@ description: 很多密碼
 * kaogi
 * rd\_henry
 * en8z=96DkiH#477
+
+### PHPSTORM 帳號密碼
+
+* 帳號：Sinonasada1011
+* 密碼：FFR41mrYukikaze
