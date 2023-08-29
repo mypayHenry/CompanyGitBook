@@ -1,8 +1,4 @@
 # Table of contents
 
-* [使用Xampp建立本地環境](README.md)
-* [模擬串接金流服務](mo-ni-chuan-jie-jin-liu-fu-wu.md)
-* [測試區更新](ce-shi-qu-geng-xin.md)
-* [資料庫操作習慣](zi-liao-ku-cao-zuo-xi-guan.md)
-* [排程Nohup](pai-cheng-nohup.md)
-* [MYPAY 收費層級](mypay-shou-fei-ceng-ji.md)
+* [公司用網址](README.md)
+* [公司用密碼](gong-si-yong-mi-ma.md)
