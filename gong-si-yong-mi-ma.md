@@ -82,7 +82,7 @@ description: 很多密碼
 
 * kaogi
 * rd\_henry
-* en8z=96DkiH#477
+* 2^Vm]mj=GZJB7f|
 
 ### PHPSTORM 帳號密碼
 
